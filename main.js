@@ -1,10 +1,10 @@
 function mudarCorTexto(){
 
-document.querySelector("#p1").style.color= "black"
+document.querySelector("#p1").style.color= "white"
 
 
 }
 function mudarCorFundo(){
-  document.querySelector("#p1").style.color= "white"
+  document.querySelector("#p1").style.color= "black"
 
 }
